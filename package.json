@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "viem": "^2.31.4",
+    "vite": "^6.3.5"
+  }
+}
